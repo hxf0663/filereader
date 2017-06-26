@@ -1,1 +1,1 @@
-# 此网页演示了html2canvas网页截图下载
+# 用filereader进行H5图片上传
